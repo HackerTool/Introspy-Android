@@ -1,3 +1,5 @@
+目前 很多组织 ，个人， company 都参考了此工具进行脱壳，此工具 使用了 cydia substrate ， 原理 还是HOOK 系统关键的 API
+
 Introspy-Android
 ========
 
